@@ -1,8 +1,8 @@
 {
-  "name": "js-task-boilerplate",
+  "name": "string-char-at",
   "version": "1.0.0",
-  "description": "js task boilerplate",
-  "main": "src/sum.js",
+  "description": "charAt function",
+  "main": "src/charAt.js",
   "scripts": {
     "test": "jest",
     "lint": "eslint **/*.js"
