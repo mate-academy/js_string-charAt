@@ -1,4 +1,5 @@
 'use strict';
+/* global require, describe, test, expect */
 
 const charAt = require('./charAt');
 
